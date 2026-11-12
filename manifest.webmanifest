@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "ການເງິນໂຄງການ — ບັນທຶກລາຍຮັບ ລາຍຈ່າຍ",
+  "short_name": "ການເງິນ",
+  "description": "ບັນທຶກລາຍຮັບ-ລາຍຈ່າຍ ແຍກຕາມໂຄງການ, ສະຫຼຸບກຳໄລ/ຂາດທຶນ, ແນບຮູບໃບບິນ, ນຳເຂົ້າ/ສົ່ງອອກ Excel. ໃຊ້ໄດ້ບໍ່ມີອິນເຕີເນັດ.",
+  "lang": "lo",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f5f5f3",
+  "theme_color": "#1f4e78",
+  "categories": ["finance", "business", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
